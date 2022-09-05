@@ -1,7 +1,6 @@
 # C_Apprentissage
 
-Install MinGW -> https://www.youtube.com/watch?v=y-i96kqT53A
-                 https://winlibs.com/
+Install MinGW -> https://www.youtube.com/watch?v=y-i96kqT53A  |  https://winlibs.com/
 
 ---
                  
