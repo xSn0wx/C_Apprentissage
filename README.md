@@ -8,6 +8,7 @@ Install MinGW -> https://www.youtube.com/watch?v=y-i96kqT53A  |  https://winlibs
 undefined reference to `WinMain' collect2.exe: error: ld returned 1 exit status
 -> Attention ne pas changer la fonction et sauvegarder
 
+---
 
 ⚠ Attention au type **char**, dont son usage ne garantit pas une occupation mémoire de 1 octet !
 
